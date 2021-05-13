@@ -2,20 +2,14 @@
 
 Learning Python Basic skills.
 
+
 -data storage and manipulation
-
 -looping
-
 -functions
-
 -array, list
-
 -string
-
 -tuple
-
 -recursion
-
 -searching, sorting
 
 
