@@ -3,14 +3,21 @@
 Learning Python Basic skills.
 
 
--data storage and manipulation\n
--looping\n
--functions\n 
--array, list\n 
--string \n
--tuple \n
--recursion\n 
--searching, sorting\n 
+-data storage and manipulation 
+
+-looping 
+
+-functions  
+
+-array, list 
+
+-string   
+
+-tuple   
+
+-recursion 
+
+-searching, sorting 
 
 
 Life is short, you need python.
