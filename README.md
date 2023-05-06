@@ -2,7 +2,7 @@
 
 Repository for Solved Medium Python Questions.
 
-Topics related to:
+## Topics related to:
 
 -data storage and manipulation   
 -looping    
@@ -12,3 +12,7 @@ Topics related to:
 -tuple   
 -recursion   
 -searching, sorting    
+
+### 🛠 Skills
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
