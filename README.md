@@ -2,6 +2,8 @@
 
 Repository for Solved Medium Python Questions.
 
+Topics related to:
+
 -data storage and manipulation   
 -looping    
 -functions  
