@@ -1,7 +1,6 @@
-# ENGG1330-Python-Basics
+# ENGG1330: Python Medium Questions
 
-Learning Python Basic skills.
-
+Repository for Solved Medium Python Questions.
 
 -data storage and manipulation   
 -looping    
@@ -11,7 +10,3 @@ Learning Python Basic skills.
 -tuple   
 -recursion   
 -searching, sorting    
-
-
-Life is short, you need python.
-
