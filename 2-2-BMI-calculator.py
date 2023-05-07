@@ -1,6 +1,5 @@
 h=float(input())
 
-
 w=float(input())
 
 B=w/h/h
