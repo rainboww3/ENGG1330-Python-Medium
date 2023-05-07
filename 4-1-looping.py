@@ -1,6 +1,5 @@
 n=int(input())
 
-
 if n>=0:
     k=2
     while k<n//2+1:
