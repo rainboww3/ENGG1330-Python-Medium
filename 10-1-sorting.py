@@ -12,5 +12,4 @@ bub(data)
 
 for k in data:
     print(k,end=' ')
-
     
