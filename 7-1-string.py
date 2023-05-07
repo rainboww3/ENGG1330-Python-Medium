@@ -1,5 +1,3 @@
-
-
 s=input()
 l=s.split(',')
 
