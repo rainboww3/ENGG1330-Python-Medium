@@ -1,6 +1,6 @@
 # 🐍ENGG1330: Python Medium Questions
 
-Repository for Solved Medium Python Questions.
+Repository for Improving Python problem solving skills by Solving Medium Python Questions.
 
 ## Topics related to:
 
