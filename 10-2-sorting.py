@@ -1,4 +1,3 @@
-
 def bub(data):
     n=len(data)
     for i in range(n-1):
