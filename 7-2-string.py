@@ -1,5 +1,3 @@
-
-
 s=input()
 l=s.split(',')
 
@@ -19,9 +17,7 @@ for e in l:
         
     else:
         output_str+=e+' '
-        
-        
-        
-        
-        
+                
+ 
+
 print(output_str, end='')        
